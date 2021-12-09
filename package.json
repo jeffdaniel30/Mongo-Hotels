@@ -1,5 +1,49 @@
 {
+  "name": "mongo-hotels",
+  "version": "1.0.0",
+  "description": "[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)",
+  "main": "app.js",
   "dependencies": {
-    "mongoose": "^6.1.0"
-  }
+    "base64-js": "^1.5.1",
+    "bson": "^4.6.0",
+    "buffer": "^5.7.1",
+    "debug": "^4.3.3",
+    "denque": "^2.0.1",
+    "express": "^4.17.1",
+    "hbs": "^4.2.0",
+    "ieee754": "^1.2.1",
+    "kareem": "^2.3.2",
+    "memory-pager": "^1.5.0",
+    "mongodb": "^4.2.1",
+    "mongodb-connection-string-url": "^2.2.0",
+    "mongoose": "^6.1.1",
+    "mpath": "^0.8.4",
+    "mquery": "^4.0.0",
+    "ms": "^2.1.2",
+    "nodemon": "^2.0.15",
+    "punycode": "^2.1.1",
+    "regexp-clone": "^1.0.0",
+    "saslprep": "^1.0.3",
+    "sift": "^13.5.2",
+    "sliced": "^1.0.1",
+    "sparse-bitfield": "^3.0.3",
+    "tr46": "^3.0.0",
+    "webidl-conversions": "^7.0.0",
+    "whatwg-url": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffdaniel30/Mongo-Hotels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffdaniel30/Mongo-Hotels/issues"
+  },
+  "homepage": "https://github.com/jeffdaniel30/Mongo-Hotels#readme"
 }
